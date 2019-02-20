@@ -3,5 +3,9 @@
 
 ![Example](https://i.imgur.com/gqZklqQ.png)
 
+![Example 2](https://i.imgur.com/LOPN1CH.png)
+
+
+
 
 To install just click install on the theme preferences and select the xml file.
