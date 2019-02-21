@@ -393,7 +393,7 @@
         extra_edge_angle="#202000"
         extra_face_angle="#000080"
         extra_face_area="#002000"
-        editmesh_active="#ffffff80"
+        editmesh_active="#00ff02ff"
         normal="#22dddd"
         vertex_normal="#2361dd"
         split_normal="#dd23dd"
