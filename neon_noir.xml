@@ -4,7 +4,6 @@
       <ThemeUserInterface
         menu_shadow_fac="0.381995"
         menu_shadow_width="10"
-        icon_file=""
         icon_alpha="0.859143"
         icon_saturation="1"
         widget_emboss="#00000003"
@@ -105,7 +104,7 @@
             inner_sel="#c8005cff"
             item="#ffffffff"
             text="#cccccc"
-            text_sel="#000000"
+            text_sel="#c8005c"
             show_shaded="TRUE"
             shadetop="10"
             shadedown="0"
@@ -160,7 +159,7 @@
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors
-            outline="#202020"
+            outline="#3e3e3e"
             inner="#00000019"
             inner_sel="#c8005cff"
             item="#ffffffff"
@@ -364,7 +363,7 @@
         vertex_bevel="#00a5ff"
         vertex_unreferenced="#000000"
         edge_select="#ff891f"
-        edge_seam="#00ace4"
+        edge_seam="#e40100"
         edge_sharp="#9c00ff"
         edge_crease="#f1f4ff"
         edge_bevel="#00a5ff"
@@ -916,7 +915,7 @@
         node_backdrop="#444444ff"
         converter_node="#7f8080"
         color_node="#4c5975"
-        group_node="#3a582c"
+        group_node="#3a582cff"
         group_socket_node="#1f00c7"
         frame_node="#505050aa"
         matte_node="#0076b6"
