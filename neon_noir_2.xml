@@ -99,13 +99,13 @@
         </wcol_text>
         <wcol_option>
           <ThemeWidgetColors
-            outline="#88384d"
+            outline="#635a63"
             inner="#1a1a1aff"
             inner_sel="#c8005cff"
             item="#ffffffff"
             text="#cccccc"
             text_sel="#c8005c"
-            show_shaded="TRUE"
+            show_shaded="FALSE"
             shadetop="26"
             shadedown="0"
             roundness="0"
@@ -160,11 +160,11 @@
         <wcol_box>
           <ThemeWidgetColors
             outline="#3e3e3e"
-            inner="#00000019"
+            inner="#a9a9a919"
             inner_sel="#c8005cff"
             item="#ffffffff"
             text="#b8b8b8"
-            text_sel="#000000"
+            text_sel="#686868"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="-7"
@@ -205,10 +205,10 @@
         <wcol_menu_back>
           <ThemeWidgetColors
             outline="#000000"
-            inner="#1a1c1df7"
+            inner="#181818e8"
             inner_sel="#c8005ce6"
             item="#646464ff"
-            text="#a5afa6"
+            text="#24ccdb"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="25"
@@ -234,8 +234,8 @@
         </wcol_pie_menu>
         <wcol_tooltip>
           <ThemeWidgetColors
-            outline="#5c939c"
-            inner="#0c0c13e8"
+            outline="#00c8ff"
+            inner="#101718e8"
             inner_sel="#c8005cff"
             item="#646464ff"
             text="#c8005c"
@@ -975,7 +975,7 @@
     <outliner>
       <ThemeOutliner
         match="#337f33"
-        selected_highlight="#444444"
+        selected_highlight="#273c3c"
         >
         <space>
           <ThemeSpaceGeneric
