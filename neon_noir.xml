@@ -54,7 +54,7 @@
         </wcol_tool>
         <wcol_toolbar_item>
           <ThemeWidgetColors
-            outline="#191919"
+            outline="#202020"
             inner="#525252ff"
             inner_sel="#c8005cff"
             item="#ccccccff"
@@ -174,7 +174,7 @@
         </wcol_box>
         <wcol_menu>
           <ThemeWidgetColors
-            outline="#0d0d0d"
+            outline="#131313"
             inner="#2f2f2fff"
             inner_sel="#c8005cff"
             item="#ffedf4ff"
@@ -183,7 +183,7 @@
             show_shaded="TRUE"
             shadetop="10"
             shadedown="-15"
-            roundness="0.5"
+            roundness="0.325882"
             >
           </ThemeWidgetColors>
         </wcol_menu>
@@ -204,7 +204,7 @@
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors
-            outline="#202020"
+            outline="#565656"
             inner="#474747ff"
             inner_sel="#c8005ce6"
             item="#646464ff"
@@ -975,7 +975,7 @@
     <outliner>
       <ThemeOutliner
         match="#337f33"
-        selected_highlight="#121212"
+        selected_highlight="#444444"
         >
         <space>
           <ThemeSpaceGeneric
